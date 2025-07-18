@@ -1,0 +1,3 @@
+application:
+  api:
+    path: '/appwhatsapp-api'
